@@ -60,6 +60,7 @@
     text-align: right;
     /* align-items: center; */
     justify-content: center;
+    padding: 0px 10px;
 }
 
 #search{
@@ -171,7 +172,7 @@
 
 .contact{
     /* height: 100vh; */
-    background-color: rgb(151, 134, 134);
+    background-color: lightgrey;
 }
 
 .text{
@@ -193,7 +194,7 @@
     border: 1px solid black;
     border-radius: 6px;
     font-size: 15px;
-    background-color: lightgray;
+    background-color: white;
 }
 
 .text-footer{
